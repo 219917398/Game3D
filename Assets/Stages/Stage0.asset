@@ -18,11 +18,11 @@ MonoBehaviour:
   levels:
   - partCount: 10
     deathPArtCount: 1
-  - partCount: 8
-    deathPArtCount: 1
   - partCount: 9
     deathPArtCount: 1
-  - partCount: 9
+  - partCount: 10
+    deathPArtCount: 1
+  - partCount: 10
     deathPArtCount: 1
   - partCount: 10
     deathPArtCount: 1
