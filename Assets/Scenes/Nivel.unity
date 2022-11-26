@@ -519,7 +519,7 @@ MonoBehaviour:
   rb: {fileID: 529538112}
   impulseForce: 5.5
   perfectPass: 0
-  superSpeed: 15
+  superSpeed: 5
   perfectPassCount: 1
 --- !u!1 &679716414
 GameObject:
@@ -1290,6 +1290,8 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a4294c848281bb746924c44c2ca1b3ed, type: 2}
   - {fileID: 11400000, guid: 767ec534c5f200540be1a3a4429c13ea, type: 2}
   - {fileID: 11400000, guid: f59d00f4860de3d4a97bb95dacedcc72, type: 2}
+  - {fileID: 11400000, guid: c3e4a36b7152e6c4c87dc33a3e517969, type: 2}
+  - {fileID: 11400000, guid: c53ff87be3bea464e9d52c5f8653ba3b, type: 2}
   helixDistance: 0
 --- !u!1 &1419940010549664335
 GameObject:
